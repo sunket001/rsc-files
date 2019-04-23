@@ -1,0 +1,3 @@
+The commands in the resources files in this repository are authored by various
+contributors of github and outside. The files are merely a collection of the
+commands to make programming and debugging easier for me
