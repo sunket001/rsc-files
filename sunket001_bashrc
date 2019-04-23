@@ -1,0 +1,9 @@
+export PATH="/usr2/sbillaka/.linuxbrew/bin:$PATH"
+export MANPATH="/usr2/sbillaka/.linuxbrew/share/man:$MANPATH"
+export INFOPATH="/usr2/sbillaka/.linuxbrew/share/info:$INFOPATH"
+export HOMEBREW_CACHE="/usr2/sbillaka/.linuxbrew/cache"
+umask 0002
+alias talos="cd /local/mnt/workspace/talos_187/kernel/msm-4.14/"
+stty erase '^?'
+export VISUAL=vim
+export EDITOR="$VISUAL"
